@@ -1,1 +1,2 @@
 hey my master.txt file
+ some chnages done
